@@ -1,0 +1,15 @@
+C:\workspace\LastWar\obj\Debug\net6.0\LastWar.csproj.AssemblyReference.cache
+C:\workspace\LastWar\obj\Debug\net6.0\LastWar.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\LastWar\obj\Debug\net6.0\LastWar.AssemblyInfoInputs.cache
+C:\workspace\LastWar\obj\Debug\net6.0\LastWar.AssemblyInfo.cs
+C:\workspace\LastWar\obj\Debug\net6.0\LastWar.csproj.CoreCompileInputs.cache
+C:\workspace\LastWar\bin\Debug\net6.0\LastWar.exe
+C:\workspace\LastWar\bin\Debug\net6.0\LastWar.deps.json
+C:\workspace\LastWar\bin\Debug\net6.0\LastWar.runtimeconfig.json
+C:\workspace\LastWar\bin\Debug\net6.0\LastWar.dll
+C:\workspace\LastWar\bin\Debug\net6.0\ref\LastWar.dll
+C:\workspace\LastWar\bin\Debug\net6.0\LastWar.pdb
+C:\workspace\LastWar\obj\Debug\net6.0\LastWar.dll
+C:\workspace\LastWar\obj\Debug\net6.0\ref\LastWar.dll
+C:\workspace\LastWar\obj\Debug\net6.0\LastWar.pdb
+C:\workspace\LastWar\obj\Debug\net6.0\LastWar.genruntimeconfig.cache
